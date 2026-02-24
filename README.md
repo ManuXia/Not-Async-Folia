@@ -4,13 +4,6 @@
     <p>Fork of <a href="https://github.com/PaperMC/Folia">Folia</a> working towards a strictly single-threaded world execution model</p>
 </div>
 
-**!? What's the Point ?!**
-
-## Disclaimer
-
-- This project is experimental and not suitable for production use.
-- World corruption, instability, and data loss are possible.
-
 ## 🦴 Overview
 
 - Fork of Folia working towards a strictly single-threaded world execution model(not fully achieved, but we will try)
@@ -79,8 +72,11 @@ Please open an issue with your well done work, thanks!
 ## 🎉 Contributers
 
 @
+
 @
+
 @
+
 @
 
 We are very grateful for their contributions to this project; without them, Not-Async-Folia would not be possible.
@@ -88,3 +84,6 @@ We are very grateful for their contributions to this project; without them, Not-
 ## ⭐ Please Give a Star
 
 Every free ⭐ motivates us to continue working on this project.
+
+
+**!? What's the Point ?!**
