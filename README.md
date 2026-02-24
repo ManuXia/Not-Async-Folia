@@ -19,10 +19,9 @@
 - ✅ Slower chunk generation
 - ✅ Cross region latency
 
-It's noe multithreaded, but is still in tick regions(or else it's not going to be 
+It's not multithreaded, but is still in tick regions(or else it's not going to be 
 folia, but paper), ticks all regions, keeps folia watchdog, all region on the 
-same thread.Plugins using RegionScheduler.run() / EntityScheduler.run() will be 
-strictly on the same thread. 
+same thread. 
 
 ## ⏬ Installing
 
