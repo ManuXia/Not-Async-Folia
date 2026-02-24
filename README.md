@@ -37,9 +37,11 @@ strictly on the same thread.
 
 ### What server types can benefit from Not-Async-Folia?
 
+[ERROR]: Encountered an unexpected exception
 
 ### What hardware will Folia run best on?
 
+[ERROR]: Encountered an unexpected exception
 
 ## Plugin compatibility
 
